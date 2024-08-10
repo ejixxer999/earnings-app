@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Purpose of this project
+This is a project showing the simple implementation of API usage. The API used here is for tracking the earnings reports of compaines listed on the DOW, NASDAQ, and S&P500. Also with a few foreign compines in the list.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

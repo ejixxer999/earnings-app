@@ -43,7 +43,7 @@ const EarningsReports = ({ symbol }) => {
     return (
       <div>
         <h2>Earnings Reports for {symbol}</h2>
-        {/* <pre>{JSON.stringify(reports, null, 2)}</pre> */}
+        <pre>{JSON.stringify(reports, null, 2)}</pre>
         <ul>
           {reports.map((report, index) => (
             <li key={index}>
